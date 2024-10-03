@@ -67,7 +67,7 @@ const DeliveryScreen = () => {
                         </View>
                         <Icon2 name='bike-fast' size={55} color='#00CCBB' />
                     </View>
-                    <Text className='text-lg text-gray-400 pt-3'>Your order is being prepared</Text>
+                    <Text className='text-lg text-gray-400 pt-3'>Your order is being prepared, Thanks</Text>
                 </View>
 
             </SafeAreaView>
