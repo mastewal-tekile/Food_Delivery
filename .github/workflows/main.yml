@@ -20,4 +20,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./  # Adjust the directory to match your structure
-          server-dir: /public_html  # Adjust as needed
+          server-dir: /mastewal.fivestar-techplc.com  # Adjust as needed
